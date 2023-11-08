@@ -1,0 +1,38 @@
+table,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table {
+  text-align: center;
+  width: 200px;
+}
+.TableData {
+  width: 100px;
+}
+
+#Subheading {
+  background-color: lightgrey;
+}
+
+th {
+  background-color: orange;
+}
+
+.Header {
+  display: flex;
+  justify-content: center;
+}
+
+#SearchBar {
+  width: 200px;
+  border: 1px solid orange;
+  margin-right: 10px;
+  padding: 5px;
+}
+
+
+#SearchBtn {
+  background-color: orange;
+  padding: 5px;
+}
